@@ -46,6 +46,7 @@
         } 
     }
 
+    // PHP code အတွင်းမှာ HTML code ရေးခြင်း
     foreach($foods as $key=>$items) {
         echo "<h1>$key</h1>";
         echo "<ul>";
@@ -57,6 +58,7 @@
 
 ?>
 
+<!-- HTML code အတွင်းတွင် PHP code ရေးခြင်း  -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
